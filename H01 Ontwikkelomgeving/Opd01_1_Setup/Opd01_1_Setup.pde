@@ -1,4 +1,12 @@
-void setup(){
-  size(400,400);
-  text("Estéban Bonardt", 100,200);
-}
+
+print("Println456");
+print("hallo123");
+print("testtest");
+
+println("blabla");
+println("Printfortnite");
+println("yooo");
+println("wat zie ik");
+
+
+//werkt hetzelfde maar println maakt een nieuwe tekstlijn
